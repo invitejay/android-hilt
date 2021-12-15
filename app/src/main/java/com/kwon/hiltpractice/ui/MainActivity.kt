@@ -1,4 +1,4 @@
-package com.kwon.hiltpractice
+package com.kwon.hiltpractice.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
